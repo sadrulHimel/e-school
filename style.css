@@ -4,6 +4,20 @@
     padding: 0px;
     font-family: 'Poppins', sans-serif;
 
+
+
+}
+
+#header{
+    background: #F0FFF0;
+    padding-top: 20px;
+   
+   
+}
+
+.container{
+    
+    margin-bottom: 90px;
 }
 
 .nav-item{
@@ -13,49 +27,170 @@
 }
 
 .btn{
-    background-color: rgb(7, 32, 58);
+    background-color:  #21B573;
     border-radius: 25px;
     padding: 4px 20px;
-    font-size: 18px;
-    color: lightcyan;
+    font-size: 16px;
+    color: rgb(253, 247, 247);
    
  
 }
 
+h1{
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+
+.header-paragraph{
+    color: tomato;
+
+}
+
+#top-banner-paragraph{
+    padding-right: 80px;
+    padding-bottom: 20px;
+}
+
+
+#topic{
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px 6px 0 6px;
+
+
+    
+}
+
+#topic:hover{
+       box-shadow: 3px 3px 15px gray; 
+}
+
+#topic h5{
+    margin-top: 25px;
+  
+}
+.container h3{
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 45px;
+    color:  #21B573;
+}
+
+#course{
+    
+    margin: auto;
+    
+    
+    box-shadow: 1px 1px 5px gray;
+    border-radius: 10px;
+}
 
 
 
+.courses button{
+    margin: 8px 0px 8px 25px;
+}
+.courses p{
+    margin: 8px 0px 8px 25px;
+}
+.courses h5{
+    margin: 8px 0px 8px 25px;
+}
 
 
 
+#course img{
+padding: 20px;
+}
 
+#date{
+    margin: 0px;
+    padding: 20px 0px 20px 0px;
+    font-size: 13px;
+    
+}
+#date img{
+    margin: 0;
+    padding: 0;
+}
 
+.testi{
+    padding-left: 35px;
+}
 
+.footer{
+    background-color: rgb(18, 43, 68);
+    overflow-x: hidden;
+    color: white;
 
+}
+small{
+    text-align: center;
+    padding-top: 100px;
+}
 
+#email{
+    border: 1px solid rgb(219, 226, 224);
+    border-radius: 20px;
+    padding: 8px 0px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 6px; 
+    background-color: rgb(219, 226, 224); 
+}
+  
 
+.col-md-3 h4{
+    color: rgb(34, 12, 56);
+}
 
+#copyright{
+    
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
 
+#footer-portion{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+        padding-left: 50px;
+    padding-top: 50px;
+  
 
+}
 
+#footer-portion p{
+    padding: 20px 80px;
+}
 
-
-
-
-
-
-
-/* body{
+.list-item{
+    font-weight: lighter;
     font-family: 'Poppins', sans-serif;
 }
-.nav-item{
-    padding-right: 30px;
-    align-items: center;
-}
-.btn{
-    padding: 9px 20px;
-    border-radius: 22px;
-    background-color: blueviolet;
 
+.footer{
+      background: #282531;
 }
- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
