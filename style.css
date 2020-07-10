@@ -1,3 +1,61 @@
-body{
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-item{
+    padding: 2px 15px;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.btn{
+    background-color: rgb(7, 32, 58);
+    border-radius: 25px;
+    padding: 4px 20px;
+    font-size: 18px;
+    color: lightcyan;
+   
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
     font-family: 'Poppins', sans-serif;
 }
+.nav-item{
+    padding-right: 30px;
+    align-items: center;
+}
+.btn{
+    padding: 9px 20px;
+    border-radius: 22px;
+    background-color: blueviolet;
+
+}
+ */
